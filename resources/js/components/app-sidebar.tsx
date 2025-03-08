@@ -14,7 +14,7 @@ const mainNavItems: NavItem[] = [
         icon: LayoutGrid,
     },
     {
-        title: 'Posts',
+        title: 'Puta',
         url: '/posts',
         icon: BookOpen,
     },

@@ -16,4 +16,8 @@ class Post extends Model
         'image',
         'status'
     ];
+
+    public function user() {
+        return $this->belongsTo(User::class);
+    }
 }
